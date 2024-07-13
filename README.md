@@ -2,7 +2,7 @@
 
 This project showcases my work and skills as a full-stack developer.
 
-![React Portfolio Website Screenshot]()
+![React Portfolio Website Screenshot](src/assets//hero.png)
 
 ## Features
 
@@ -11,7 +11,7 @@ This project showcases my work and skills as a full-stack developer.
 - **Project Details:** Provide comprehensive information about each project, including descriptions, technologies used, and links to live demos or GitHub repositories.
 - **Contact and Connect:** Offer clear ways for visitors to get in touch, such as through email or social media links.
 - **Navigation and Accessibility:** Implement intuitive navigation to help users easily explore different sections, and ensure accessibility for all users.
-- []()
+- [live Demo](https://mohamedelshahat55.github.io/portfolio/)
 
 ## Installation and Usage
 
