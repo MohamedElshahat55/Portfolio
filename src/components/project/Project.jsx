@@ -4,6 +4,7 @@ import './project.css'
 import pro1 from '../../assets/pro1.png'
 import pro2 from '../../assets/pro2.png'
 import pro3 from '../../assets/pro3.png'
+import pro4 from '../../assets/pro4.png'
 
 const Project = () => {
   const projects = [
@@ -26,6 +27,13 @@ const Project = () => {
       alt: 'Photo about the E-book app',
       demoLink: 'https://ebook-website-4owstcdev-mohamed-elshahats-projects.vercel.app/',
       githubLink:'https://github.com/MohamedElshahat55/E-book-website.git'
+    },
+    {
+      name: 'Explore Games',
+      imgSrc:pro4  ,
+      alt: 'Photo about the Explore Games',
+      demoLink: 'https://mohamedelshahat55.github.io/Explore-Game/',
+      // githubLink:'https://github.com/MohamedElshahat55/E-book-website.git'
     },
   ]
 
