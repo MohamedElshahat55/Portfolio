@@ -5,6 +5,7 @@ import pro1 from '../../assets/pro1.png'
 import pro2 from '../../assets/pro2.png'
 import pro3 from '../../assets/pro3.png'
 import pro4 from '../../assets/pro4.png'
+import pro5 from '../../assets/pro5.png'
 
 const Project = () => {
   const projects = [
@@ -13,6 +14,13 @@ const Project = () => {
       imgSrc:pro1 ,
       alt: 'Photo about the movie app',
       demoLink: 'https://mohamedelshahat55.github.io/ngMovie/'
+    },
+    {
+      name: 'Trending Shop',
+      imgSrc:pro5 ,
+      alt: 'Photo about the trending shop',
+      demoLink: 'https://mohamedelshahat55.github.io/Trending-Shop-pro/',
+      githubLink:'https://github.com/MohamedElshahat55/Trending-Shop.git'
     },
     {
       name: 'CORSO',
